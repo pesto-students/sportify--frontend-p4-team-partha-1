@@ -29,10 +29,6 @@ You can checkout the demo of Sportify [Here](https://sportifybook.netlify.app).
 * Material UI
 * Ant Designs
 * Bootstrap
-* NodeJs
-* Express js
-* MongoDB
-* Stripe API
   * Third Party Tools used - 
   1. Calendly
   2. Kommunicate
