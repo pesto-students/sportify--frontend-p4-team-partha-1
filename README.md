@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Sportify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sportify is a top sports activity facilitator. The platform offer a one-stop shop for sports enthusiasts to find playmates, find venues, improve their skills, organise their activities easily, and stay active and fit.
 
-## Available Scripts
+# Table of contents
+
+1. Demo
+2. Installation
+3. Tech Stack
+4. Features
+5. Authors
+6. License
 
 In the project directory, you can run:
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can checkout the demo of Sportify [Here](https://sportifybook.netlify.app).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. Clone the repository: git clone https://github.com/<username>/<repository-name>.git
+2. Install dependencies: npm install
+3. Run the application: npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+* HTML
+* CSS
+* React JS
+* Material UI
+* Ant Designs
+* Bootstrap
+* NodeJs
+* Express js
+* MongoDB
+* Stripe API
+  * Third Party Tools used - 
+  1. Calendly
+  2. Kommunicate
+  3. Auth0
+  4. Pabbly connect
+  
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Sportify offers the following features - 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Venue Booking in an easy way.
+2. Schedule the booking accoring to your date and time.
+3. Get details of the booking on your mail.
+4. Online payment integrated.
+5. Chatbox feature if user is confused.
+6. Query form if user has any queries.
+7. Responsive design for hassle free use in both mobile and desktop resolutions.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors 
 
-### `npm run eject`
+Sportify was created by Praduman Singh and Nilansh Audichya.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## License
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
