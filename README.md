@@ -11,15 +11,13 @@ Sportify is a top sports activity facilitator. The platform offer a one-stop sho
 5. Authors
 6. License
 
-In the project directory, you can run:
-
 ## Demo
 
 You can checkout the demo of Sportify [Here](https://sportifybook.netlify.app).
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/<username>/<repository-name>.git
+1. Clone the repository.
 2. Install dependencies: npm install
 3. Run the application: npm start
 
